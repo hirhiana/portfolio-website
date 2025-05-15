@@ -34,7 +34,7 @@ Get a glimpse into my hands-on work with pop-up stores, influencer marketing, an
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ::: card
-![](Marketing%20Analytics_files/imagess/Screenshot%202025-05-14%20at%2016.52.16.png)
+![](images/Screenshot 2025-05-14 at 16.52.16.png)
 
 ### [\[Nintendo Switch 2 – Flip or Flop\]](project-nintendo.html)
 
@@ -44,13 +44,13 @@ Get a glimpse into my hands-on work with pop-up stores, influencer marketing, an
 :::
 
 ::: card
-![The Still Hotel](Marketing%20Analytics_files/imagess/ha-giang-hotel-and-resort-papiu.webp)[The Still Hotel – Social Media Analysis](https://www.canva.com/design/DAGneFDO_Ro/8d_MNHkueT9wt6BIWKvxQg/watch?utm_content=DAGneFDO_Ro&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9c17cf04c8)
+![The Still Hotel](images/ha-giang-hotel-and-resort-papiu.webp)[The Still Hotel – Social Media Analysis](https://www.canva.com/design/DAGneFDO_Ro/8d_MNHkueT9wt6BIWKvxQg/watch?utm_content=DAGneFDO_Ro&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9c17cf04c8)
 
 `Strategic Analysis Marketing` `Marketing Strategy`
 :::
 
 ::: card
-![](Marketing%20Analytics_files/imagess/494756278_122164257764547351_4415587302157739446_n.jpg)
+![](images/494756278_122164257764547351_4415587302157739446_n.jpg)
 
 ### [🐾 Live Event – Cat’s Lab Vietnam Popup Store](project-popup.html)
 
@@ -60,7 +60,7 @@ Get a glimpse into my hands-on work with pop-up stores, influencer marketing, an
 :::
 
 ::: card
-![](Marketing%20Analytics_files/imagess/494754063_1142730074558886_2599579421646301839_n.jpg)
+![](images/494754063_1142730074558886_2599579421646301839_n.jpg)
 
 ### [Black Rouge Vietnam Fanpage Management](https://www.facebook.com/BlackRougeVietnam)
 

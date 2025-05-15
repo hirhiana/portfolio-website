@@ -27,7 +27,7 @@ MBA candidate with a background in Biochemistry and hands-on experience in digit
 # Education
 
 | Degree | Year | College / Department | Institution |
-|-------------------|-----------------|--------------------|-----------------|
+|----|----|----|----|
 | **Master of Business Administration (MBA)** | 2025 – Expected 2027 | Business Administration | California State Polytechnic University, Pomona |
 | **Bachelor of Science in Biochemistry** | 2018 – 2022 | Faculty of Biology – Department of Biochemistry | University of Science – VNU HCM (Vietnam National University, Ho Chi Minh City) |
 
