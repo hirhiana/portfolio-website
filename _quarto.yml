@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "My Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: marketing-analytics.qmd
+        text: "Marketing Analytics"
+      - href: resume.qmd
+        text: "Resume"
+
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+
