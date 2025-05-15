@@ -1,0 +1,32 @@
+---
+title: "Nintendo Switch 2 – Flip or Flop"
+format: html
+---
+
+## 🔍 Project Overview
+
+A group project conducted as part of the MBA Strategic Marketing course at Cal Poly Pomona. The goal was to analyze the anticipated success of Nintendo Switch 2 by exploring the relationship between game sales and console sales using real market data.
+
+## 📊 Objectives
+
+-   Examine the sales performance of the original Nintendo Switch.
+-   Analyze historical data from VGChartz.
+-   Visualize the game-to-console ratio.
+-   Predict potential outcomes for Nintendo Switch 2.
+
+## 📈 Tools & Methods
+
+-   **R** for data wrangling and visualization
+-   **VGChartz** data scraping
+-   **Quarto Revealjs** for presentation
+-   **Team collaboration** for strategic recommendations
+
+## 💡 Key Takeaways
+
+-   The ratio of top-selling games to hardware sales provides insight into user behavior.
+-   Historical success can serve as a benchmark for forecasting future trends.
+-   Strategic partnerships and exclusive releases are crucial to console success.
+
+## 🔗 Watch Our Presentation
+
+[\[Click here to view the full presentation\]](https://github.com/nickmonge/Nintendo-Switch-2-Flip-or-Flop/blob/7ac764a7db6d1b5ab9bd724498f104adf148dd5a/Nintendo%20Switch%202%20-%20Flip%20or%20Flop%20(Master).html)

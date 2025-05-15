@@ -1,0 +1,68 @@
+---
+title: "Resume"
+---
+
+```{r knit-resume, echo=FALSE, message=FALSE}
+rmarkdown::render(
+  "resume/Resume.Rmd",
+  output_format = "pdf_document",
+  output_file   = "Resume.pdf",
+  output_dir    = "resume",
+  quiet         = TRUE
+)
+```
+
+You can view a PDF version of my resume [here](resume/Resume.pdf).
+
+# Professional Summary
+
+MBA candidate with a background in Biochemistry and hands-on experience in digital marketing, social media strategy, and international business development. Skilled in data-driven campaigns, brand storytelling, and expanding global market reach. Enthusiastic about innovation, attractiveness, and leveraging marketing analytics to promote quantifiable growth and interaction.
+
+# Technical Skills
+
+-   **Programming Languages:** R, Python.
+-   **Web Technologies:** HTML, CSS/SCSS, Quarto.
+-   **Marketing Tools:** Meta Business Suite, Google Analytics, Canva,
+
+# Education
+
+| Degree | Year | College / Department | Institution |
+|-------------------|-----------------|--------------------|-----------------|
+| **Master of Business Administration (MBA)** | 2025 – Expected 2027 | Business Administration | California State Polytechnic University, Pomona |
+| **Bachelor of Science in Biochemistry** | 2018 – 2022 | Faculty of Biology – Department of Biochemistry | University of Science – VNU HCM (Vietnam National University, Ho Chi Minh City) |
+
+# Work Experience
+
+### Content Creator, DM&C Co. Ltd – Black Rouge Vietnam
+
+*August 2022 - January 2025*
+
+-   Developed and executed integrated digital marketing campaigns across social media platforms, boosting reach by 121% and engagement by 98%.
+
+-   Created web content and branding visuals that contributed to a 76% increase in online sales.
+
+-   Analyzed customer behavior at the point of sale to design activation events and in-store strategies.
+
+-   Coordinated with KOLs/KOCs, influencers, and media to improve brand visibility and engagement.
+
+-   Supported E-commerce campaigns, contributing to a 30% sales uplift.
+
+-   Worked closely with cross-functional teams to align messaging with product and business goals.
+
+------------------------------------------------------------------------
+
+### Social Media Manager, Freelance
+
+*April 2023 - Present*
+
+-   Created and managed paid and organic social media campaigns, increasing audience engagement by 47%.
+
+-   Built and grew a TikTok channel to 11,000+ followers, with multiple videos surpassing 1 million views.
+
+-   Designed targeted digital content to drive brand interaction and recognition.
+
+-   Applied data insights to improve posting strategies and audience targeting.
+
+-   Collaborated with clients on campaign planning, messaging, and performance tracking.
+
+------------------------------------------------------------------------

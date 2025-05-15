@@ -1,0 +1,68 @@
+---
+title: "Marketing Analytics"
+listing:
+  contents: listings   
+  type: grid           
+  categories: true    
+  sort: "index desc"
+---
+
+# 💼 Strategic Marketing
+
+Through my MBA coursework and hands-on projects, I’ve developed a strong foundation in market segmentation, brand positioning, competitive analysis, and campaign planning—equipping me to make informed decisions that align marketing goals with business objectives
+
+📊 **Marketing Analytics Projects**\
+
+Explore data-driven insights and visualizations used to guide marketing decisions and strategy.
+
+📱 **Social Media Campaigns**\
+
+See examples of content planning, engagement analysis, and platform management.
+
+🛍️ **Branding & Fanpage Management**\
+
+Learn how I developed brand identity, maintained voice consistency, and built online communities.
+
+🎯 **Strategic Presentations**\
+
+View team presentations that apply analytical frameworks to real-world marketing problems.
+
+🐾 **Live Event Activations**\
+
+Get a glimpse into my hands-on work with pop-up stores, influencer marketing, and customer feedback collection.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+::: card
+![](Marketing%20Analytics_files/imagess/Screenshot%202025-05-14%20at%2016.52.16.png)
+
+### [\[Nintendo Switch 2 – Flip or Flop\]](project-nintendo.html)
+
+<a href="project-nintendo.html">
+
+`Data Visualizations` `Analyzed game-to-console sales ratio`
+:::
+
+::: card
+![The Still Hotel](Marketing%20Analytics_files/imagess/ha-giang-hotel-and-resort-papiu.webp)[The Still Hotel – Social Media Analysis](https://www.canva.com/design/DAGneFDO_Ro/8d_MNHkueT9wt6BIWKvxQg/watch?utm_content=DAGneFDO_Ro&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9c17cf04c8)
+
+`Strategic Analysis Marketing` `Marketing Strategy`
+:::
+
+::: card
+![](Marketing%20Analytics_files/imagess/494756278_122164257764547351_4415587302157739446_n.jpg)
+
+### [🐾 Live Event – Cat’s Lab Vietnam Popup Store](project-popup.html)
+
+<a href="project-popup.html">
+
+`Customer Engagement Strategies` `Conducted market research`
+:::
+
+::: card
+![](Marketing%20Analytics_files/imagess/494754063_1142730074558886_2599579421646301839_n.jpg)
+
+### [Black Rouge Vietnam Fanpage Management](https://www.facebook.com/BlackRougeVietnam)
+
+`Creative Campaigns` `Create Social Media Content`
+:::

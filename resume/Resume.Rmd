@@ -1,0 +1,90 @@
+---
+name: Rhiana
+surname: Le
+position: "Strategic Marketing"
+phone: "+1 (714) 467-9019"
+email: "vythuy204@gmail.com"
+github: "hirhiana"
+linkedin: "lethanhthuyvy"
+date: "`r format(Sys.Date(), '%B %Y')`"
+output: 
+  vitae::latexcv:
+    theme: classic
+  pdf_document: default
+header-includes:
+  - \usepackage{enumitem}
+  - \setlist[itemize]{nosep, left=0pt}
+  - \setlist[enumerate]{nosep, left=0pt}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+
+if (!requireNamespace(c("tinytex","vitae","tibble"), quietly = TRUE)) {
+  install.packages(c("tinytex","vitae","tibble"))
+}
+
+if (Sys.which("pdflatex") == "" && !tinytex::is_tinytex()) {                    
+  message("► TinyTeX not found – installing")
+  tinytex::install_tinytex()        
+} else {
+  message("✓ LaTeX present – no installation needed.")
+}
+
+library(vitae)
+library(tibble)
+```
+
+# Professional Summary
+
+MBA candidate with a background in Biochemistry and hands-on experience in digital marketing, social media strategy, and international business development. Skilled in data-driven campaigns, brand storytelling, and expanding global market reach. Enthusiastic about innovation, attractiveness, and leveraging marketing analytics to promote quantifiable growth and interaction
+
+# Technical Skills
+
+-   **Programming Languages:** R, Python.
+-   **Web Technologies:** HTML, CSS/SCSS, Quarto.
+-   **Marketing Tools:** Meta Business Suite, Google Analytics, Canva.
+
+# Education
+
+```{r}
+tribble(
+  ~ Degree, ~ Year, ~ College, ~ Institution,
+"Master of Business Administration MBA", "2025 – Expected 2027", "Business Administration", "California State Polytechnic University, Pomona",
+  "Bachelor of Science", "2018 – 2022", "Biochemistry", "University of Science – VNU HCM"
+) %>%
+  detailed_entries(Degree, Year, College, Institution)
+```
+
+# Work Experience
+
+```{r}
+tribble(
+  ~ Years, ~ Company, ~ Duties, ~ Title,
+
+  "Aug 2022 – Jan 2025", "DM&C Co. Ltd – Black Rouge Vietnam",
+  list(
+    "Planned and executed integrated branding campaigns across digital and social platforms, increasing reach by 121% and engagement by 98%.",
+    "Developed content for the brand website, contributing to a 76% increase in revenue.",
+    "Researched customer insights and buying behavior to design in-store activations and boost brand awareness.",
+    "Built long-term partnerships with media, influencers, and KOLs/KOCs.",
+    "Collaborated with the E-commerce team to uplift sales by 30%.",
+    "Worked cross-functionally with marketing, design, and content teams.",
+    "Supported CEO with various strategic marketing tasks."
+  ),
+  "Content Creator",
+
+  "Apr 2023 – Present", "Freelance",
+  list(
+    "Launched and managed social media campaigns with an 18% increase in followers and 47% higher engagement.",
+    "Grew a TikTok account to 11,000+ followers; several videos gained 1M+ views."
+  ),
+  "Social Media Manager"
+) %>%
+  detailed_entries(
+    what = Title,
+    when = Years,
+    with = Company,
+    why = Duties
+  )
+```

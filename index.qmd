@@ -1,0 +1,49 @@
+---
+title: "Home Page"
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+# 👋 Hi there! I'm Rhiana
+
+## MBA Candidate \| Strategic Marketing \| Social Media Management
+
+::::: columns
+::: {.column width="30%"}
+![](images/IMG_7931.JPG){style="border-radius: 50%;"}
+:::
+
+::: {.column width="50%" style="padding-left: 3rem;"}
+I'm a Social Media Management passionate about data-driven strategies, brand storytelling, and digital innovation
+:::
+:::::
+
+## 🙋‍♀️ About Me
+
+I hold a background in **Biochemistry**, which gives me a unique edge in understanding product development, while my recent work focuses on **digital marketing, customer engagement, and data-driven decision making**.
+
+Currently, I'm pursuing an **MBA in Strategic Marketing** at **Cal Poly Pomona**, where I'm deepening my skills in market research, campaign strategy, and marketing analytics.
+
+When I'm not building marketing strategies or working with data, you’ll find me exploring beauty trends, working on design ideas, or learning new tools to sharpen my creative edge.
+
+## 💼 What I Do
+
+### 💡 Digital Marketing & Strategy
+
+-   Develop branding, content, and storytelling strategies for digital platforms
+-   Plan and manage social media, influencer, and email marketing campaigns
+-   Collaborate with product teams to align marketing with technical features
+-   Execute cross-channel strategies to increase engagement and reach
+
+### 🌍 International Business Development
+
+-   Represented company at exhibitions like **Cosmo Beauty Seoul**
+-   Introduced products to 100+ international buyers and distributors
+-   Helped expand brand presence in **Europe and North America**
+
+## 🤝 Let's Connect
+
+I'm constantly looking for opportunities to exchange strategies and collaborate.\
+Feel free to [contact me](mailto:vythuy204@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/)

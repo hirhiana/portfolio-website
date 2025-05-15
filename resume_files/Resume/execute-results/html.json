@@ -1,0 +1,17 @@
+{
+  "hash": "0c6cf014123e5364c5f9215b8534a218",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\nname: Rhiana\nsurname: Le\nposition: \"Strategic Marketing\"\nphone: \"+1 (714) 467-9019\"\nemail: \"vythuy204@gmail.com\"\ngithub: \"hirhiana\"\nlinkedin: \"lethanhthuyvy\"\ndate: \"May 2025\"\noutput: \n  vitae::latexcv:\n    theme: classic\n  pdf_document: default\nheader-includes:\n  - \\usepackage{enumitem}\n  - \\setlist[itemize]{nosep, left=0pt}\n  - \\setlist[enumerate]{nosep, left=0pt}\n---\n\n\n\n\n\n\n\n# Professional Summary\n\nMBA candidate with a background in Biochemistry and hands-on experience in digital marketing, social media strategy, and international business development. Skilled in data-driven campaigns, brand storytelling, and expanding global market reach. Enthusiastic about innovation, attractiveness, and leveraging marketing analytics to promote quantifiable growth and interaction\n\n# Technical Skills\n\n-   **Programming Languages:** R, Python.\n-   **Web Technologies:** HTML, CSS/SCSS, Quarto.\n-   **Marketing Tools:** Meta Business Suite, Google Analytics, Canva.\n\n# Education\n\n\n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n# A tibble: 2 × 5\n  what                                  when                 with    where why  \n  <chr>                                 <chr>                <chr>   <chr> <lis>\n1 Master of Business Administration MBA 2025 – Expected 2027 Busine… Cali… <chr>\n2 Bachelor of Science                   2018 – 2022          Bioche… Univ… <chr>\n```\n\n\n:::\n:::\n\n\n\n\n\n# Work Experience\n\n\n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n# A tibble: 2 × 5\n  what                 when                with                     where why   \n  <chr>                <chr>               <chr>                    <chr> <list>\n1 Content Creator      Aug 2022 – Jan 2025 DM&C Co. Ltd – Black Ro… <NA>  <list>\n2 Social Media Manager Apr 2023 – Present  Freelance                <NA>  <list>\n```\n\n\n:::\n:::\n",
+    "supporting": [
+      "Resume_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
